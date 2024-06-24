@@ -1,4 +1,4 @@
-# Maoc Music
+# Rhythmix Player
 
 ## Demo
 
